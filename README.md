@@ -29,3 +29,26 @@ to stage the changes:
 to commit changes:
   
   git commit -m"commit changes"
+
+To push changes
+  
+  git push origin<sourcebranch>
+     ex:git push origin class1
+  
+### Daily 
+  
+  to check branch is clean
+    
+    git status
+
+to checkout main branch
+
+    git checkout mian
+
+to get the latest changes
+  
+   git pull origin main
+
+to create a new branch
+    
+    git checkout -b<new branch name>
