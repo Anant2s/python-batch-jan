@@ -25,3 +25,7 @@ To excactly changes made on a single file
 to stage the changes:
    
    git add <filename>
+
+to commit changes:
+  
+  git commit -m"commit changes"
